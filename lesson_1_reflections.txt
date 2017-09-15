@@ -1,0 +1,2 @@
+diff -u <file1> <file2>
+It instantly lets you see differences in lines between file1 and file2
